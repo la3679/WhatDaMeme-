@@ -3,7 +3,7 @@ from google import genai
 from google.genai import types
 
 # Create a Google GenAI client instance with your API key.
-client = genai.Client(api_key="AIzaSyCfxLe47vIgoxKXBR7KUs_8Pa8QbaYfMzE")  # Replace with your actual API key.
+client = genai.Client(api_key="your-api-key")  # Replace with your actual API key.
 
 def encode_image_to_base64(image_path):
     try:
