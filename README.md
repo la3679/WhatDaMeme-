@@ -1,6 +1,6 @@
 # Meme Analyzer 🎭
 
-![Meme Analyzer Screenshot](assetsimages/screenshot.png) <!-- Add a screenshot of your project here -->
+![Meme Analyzer Screenshot](assets/images/screenshot.png) <!-- Add a screenshot of your project here -->
 
 WhatDaMeme?! is a fun and interactive web application that allows users to upload a meme image and a chat file. The application analyzes the meme using **OCR (Optical Character Recognition)** to extract text and **Google GenAI** to generate a detailed explanation of the meme, including its type, sentiment, and a humorous explanation.
 
