@@ -91,6 +91,8 @@ meme-analyzer/
 
 After uploading a meme image and a chat file, the application will display the following results:
 
+![Result After Adding a Image](assets/images/result.png)
+
 - **Uploaded Meme Image**: The image is displayed at the top of the results section.
 - **Extracted Text**: The text extracted from the meme using OCR.
 - **Meme Explanation**:
@@ -132,7 +134,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Submit a pull request.
-
 
 ## **Acknowledgments**
 
