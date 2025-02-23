@@ -1,8 +1,8 @@
 # Meme Analyzer 🎭
 
-![Meme Analyzer Screenshot](screenshot.png) <!-- Add a screenshot of your project here -->
+![Meme Analyzer Screenshot](images/screenshot.png) <!-- Add a screenshot of your project here -->
 
-Meme Analyzer is a fun and interactive web application that allows users to upload a meme image and a chat file. The application analyzes the meme using **OCR (Optical Character Recognition)** to extract text and **Google GenAI** to generate a detailed explanation of the meme, including its type, sentiment, and a humorous explanation.
+WhatDaMeme?! is a fun and interactive web application that allows users to upload a meme image and a chat file. The application analyzes the meme using **OCR (Optical Character Recognition)** to extract text and **Google GenAI** to generate a detailed explanation of the meme, including its type, sentiment, and a humorous explanation.
 
 ---
 
@@ -124,15 +124,6 @@ After uploading a meme image and a chat file, the application will display the f
 
 ---
 
-## **Screenshots**
-
-- **Home Page**
-  - Home Page <!-- Add a screenshot of the home page -->
-- **Results Page**
-  - Results Page <!-- Add a screenshot of the results page -->
-
----
-
 ## **Contributing**
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
@@ -142,13 +133,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Commit your changes.
 4. Submit a pull request.
 
----
-
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## **Acknowledgments**
 
@@ -162,8 +146,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: your-username
+- **Email**:
+  - la3679@rit.edu
+  - nb6425@rit.edu
+  - dd8053@rit.edu
 
 ---
 
@@ -175,12 +161,6 @@ easyocr==1.6.2
 Pillow==10.0.0
 google-genai==1.0.0  # Replace with the actual package name for Google GenAI
 ```
-
-### **How to Use the Documentation**
-
-- **README.md**: Explains the project scope, features, technologies used, and how to run the project. Includes screenshots and potential improvements.
-- **requirements.txt**: Lists all the Python libraries required to run the project. Install them using `pip install -r requirements.txt`.
-- **Screenshots**: Add screenshots of your project (e.g., home page, results page) to the README.md file.
 
 ### **Next Steps**
 
